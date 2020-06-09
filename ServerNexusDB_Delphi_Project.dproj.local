@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.288,C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.dfm=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Webservices1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.288,C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.pas=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Webservices1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.654,C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Project1.dproj=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Projectwebservices1.dproj</Transaction>
+    <Transaction>2020.06.08 23:09:42.888,C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\ServerNexusDB_Delphi.dfm=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Webservices1.dfm</Transaction>
+    <Transaction>2020.06.08 23:09:42.888,C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\ServerNexusDB_Delphi.pas=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Webservices1.pas</Transaction>
+    <Transaction>2020.06.08 23:10:55.103,C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\ServerNexusDB_Delphi_Project.dproj=C:\Users\pc klinik\OneDrive\Dokumente\Embarcadero\Studio\Projekte\Projectwebservices1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
