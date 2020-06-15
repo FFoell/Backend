@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.322,=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.011,=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2020.06.13 12:48:06.573,=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2020.06.13 12:49:00.289,C:\Users\PC Klinik\Desktop\HTTP-server\Unit2.pas=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit2.pas</Transaction>
+    <Transaction>2020.06.13 12:49:00.289,C:\Users\PC Klinik\Desktop\HTTP-server\Unit2.dfm=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Unit2.dfm</Transaction>
+    <Transaction>2020.06.13 12:49:24.073,C:\Users\PC Klinik\Desktop\HTTP-server\Server.dproj=C:\Users\PC Klinik\Documents\Embarcadero\Studio\Projekte\Project4.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
